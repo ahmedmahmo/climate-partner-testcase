@@ -1,5 +1,5 @@
 # climate-partner-testcode
-
+![example](notejam.drawio.png "Infrastructure illustration")
 ## Run Infrastructure 
 Required Terraform `">= 0.13.1"` and AWS Access credentials
 
